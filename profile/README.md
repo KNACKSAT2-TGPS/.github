@@ -7,6 +7,10 @@ Sattlelite buiding training Program for Thai-German Pre Engineering School.
 Our projects is about making homemade Radiation Protection by resorce from locals supply.
 For more infomation please visit our link. https://bit.ly/3OJ4jgg
 
+Our payload fuction.
+We Compare between sheilded and UnShiled with Geiger counter and data.
+As result of data loses and Stability will result in comparasion.
+
 Our Project Members.
 //                   - KITTIPHOP  PHANTHACHART
 //                   - PONGSAPAT  LAKROD
