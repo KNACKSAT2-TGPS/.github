@@ -5,7 +5,7 @@ KNACKSAT2 TGPS
 Sattlelite buiding training Program for Thai-German Pre Engineering School.
 
 Our projects is about making homemade Radiation Protection by resorce from locals supply.
-For more infomation please visit our link 
+For more infomation please visit our link. https://bit.ly/3OJ4jgg
 <!--
 
 **Here are some ideas to get you started:**
