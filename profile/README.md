@@ -12,7 +12,9 @@ We Compare between sheilded and UnShiled with Geiger counter and data.
 As result of data loses and Stability will result in comparasion.
 
 Usage notices:
-We are open-sorce project aim for helping people reaching space easier,Space is near us but why we can't reach it? Because we dont open to people then how we gonna be muti-space species?
+We are open-sorce project aim for helping people reaching space easier,Space is near us but why we can't reach it? 
+Because we dont open to people then how we gonna be muti-space species?
+
 You may using our file and data as example or clone it,BUT You may not sell without ask permission from us. This project is copyright between NBSPACE AND KNACKSAT2 TGPS TEAM.
 
 Our Project Members.
