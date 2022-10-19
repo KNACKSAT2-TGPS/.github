@@ -43,7 +43,7 @@ Our Project Members.
   
 Trivia
 - Our projects started as Sattlelite building train program,But as we started first day. It was 1 Payload PCB.
-- Our project has only 3 Months Dead Lines Result from COVID-19.
+- Our project has only 3 Months Dead Lines Result from COVID-19(Which It already passed but WE HAVEN'T FINNISHED SO DEADLINE IS EXTENDED TO NEXT YEAR).
 - We have been into Many News Papers but No one can remember us.
 - Our Project wil be KNACKSAT2 Sattlelite.
   
