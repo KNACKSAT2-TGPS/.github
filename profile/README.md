@@ -8,7 +8,7 @@ Our projects is about making homemade Radiation Protection by resorce from local
 For more infomation please visit our link. https://bit.ly/3OJ4jgg
 
 Our payload fuction.
-We Compare between sheilded and UnShiled with Geiger counter and data.
+We Compare between covered and Uncovered with Geiger counter and data.
 As result of data loses and Stability will result in comparasion.
 
 Usage notices:
